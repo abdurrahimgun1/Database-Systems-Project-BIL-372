@@ -1,1 +1,1 @@
-# B-L-372-Proje
+# BİL 372 Proje
