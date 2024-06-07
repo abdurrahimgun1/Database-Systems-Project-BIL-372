@@ -1,1 +1,6 @@
 # BİL 372 Proje
+Traditional library management systems are typically based on manual processes and physical records. These methods are time-consuming, prone to errors, and lack efficiency. Users depend on library staff to perform tasks such as searching for books, borrowing, and returning them. Additionally, obtaining information about book availability and making reservations can be challenging. This situation results in time loss and inefficiency for both library staff and users.
+
+A modern library management system aims to address these problems. By digitizing the processes of borrowing and returning books, it provides users with faster and easier access to library services. Furthermore, book inventory and user information are stored and managed digitally, reducing the workload of library staff and minimizing errors.
+
+In this context, the development of a new library management system aims to optimize library operations by automating and digitizing existing manual processes. This system will include essential functions such as book search, reservation, borrowing, returning, overdue notifications, and user management. Additionally, a user-friendly interface will ensure that both users and staff can easily adapt to the system.
