@@ -1,6 +1,6 @@
 const { Sequelize } = require('sequelize');
 
-const db = new Sequelize('mysql://root:mA20030721*@localhost:3006/bil372', {
+const db = new Sequelize('mysql://root:<sifre>@localhost:<port>/bil372', {
   define: { freezeTableName: true },
 });
 
